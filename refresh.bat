@@ -1,0 +1,1 @@
+"C:\\Users\\ferdz\\AppData\\Local\\Programs\\Python\\Python38\\python.exe" "C:\Users\ferdz\Desktop\Tools\autorefresh.py" pause
